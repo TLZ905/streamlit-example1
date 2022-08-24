@@ -52,4 +52,4 @@ st.write(prediction_proba)
 from PIL import Image
 image = Image.open('Iris.png')
 
-st.image(https://miro.medium.com/max/1000/1*Hh53mOF4Xy4eORjLilKOwA.png)
+st.image("https://storage.googleapis.com/kaggle-datasets-images/19/19/default-backgrounds/dataset-card.jpg")
