@@ -54,7 +54,6 @@ all_iris = Image.open("Iris Photo.png")
 st.image(all_iris, 
          caption='Three Iris Species <source: https://morioh.com/p/eafb28ccf4e3>')
 
-For download button
 iris = pd.read_csv("iris.csv")
 
 @st.cache
