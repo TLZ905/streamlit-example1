@@ -49,7 +49,4 @@ st.write(iris.target_names[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-from PIL import Image
-image = Image.open('Iris.png')
-
 st.image("https://storage.googleapis.com/kaggle-datasets-images/19/19/default-backgrounds/dataset-card.jpg")
