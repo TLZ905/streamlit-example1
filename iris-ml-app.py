@@ -50,6 +50,6 @@ st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
 from PIL import Image
-image = Image.open('Iris')
+image = Image.open('Iris.png')
 
 st.image(image, caption='Iris')
