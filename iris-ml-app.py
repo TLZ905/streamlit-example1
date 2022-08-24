@@ -52,4 +52,4 @@ st.write(prediction_proba)
 from PIL import Image
 image = Image.open('Iris.png')
 
-st.image(image, caption='Iris')
+st.image(https://miro.medium.com/max/1000/1*Hh53mOF4Xy4eORjLilKOwA.png)
